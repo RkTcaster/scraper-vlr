@@ -1,1 +1,24 @@
-{"folder": "csv", "encoding": "iso-8859-1", "url": {"americas": ["https://www.vlr.gg/event/matches/2347/vct-2025-americas-stage-1/?series_id=all"], "emea": ["https://www.vlr.gg/event/matches/2380/vct-2025-emea-stage-1/?series_id=all"], "pacific": ["https://www.vlr.gg/event/matches/2379/vct-2025-pacific-stage-1/?series_id=all"], "global": ["https://www.vlr.gg/event/matches/2282/valorant-masters-toronto-2025/?series_id=all"]}, "processed_url": ["https://www.vlr.gg/event/matches/2282/valorant-masters-toronto-2025/?series_id=all", "https://www.vlr.gg/event/matches/2379/vct-2025-pacific-stage-1/?series_id=all", "https://www.vlr.gg/event/matches/2347/vct-2025-americas-stage-1/?series_id=all", "https://www.vlr.gg/event/matches/2380/vct-2025-emea-stage-1/?series_id=all"]}
+{
+    "folder": "csv",
+    "encoding": "iso-8859-1",
+    "url": {
+        "americas": [
+            "https://www.vlr.gg/event/matches/2347/vct-2025-americas-stage-1/?series_id=all"
+        ],
+        "emea": [
+            "https://www.vlr.gg/event/matches/2380/vct-2025-emea-stage-1/?series_id=all"
+        ],
+        "pacific": [
+            "https://www.vlr.gg/event/matches/2379/vct-2025-pacific-stage-1/?series_id=all"
+        ],
+        "global": [
+            "https://www.vlr.gg/event/matches/2282/valorant-masters-toronto-2025/?series_id=all"
+        ]
+    },
+    "processed_url": [
+        "https://www.vlr.gg/event/matches/2379/vct-2025-pacific-stage-1/?series_id=all",
+        "https://www.vlr.gg/event/matches/2347/vct-2025-americas-stage-1/?series_id=all",
+        "https://www.vlr.gg/event/matches/2380/vct-2025-emea-stage-1/?series_id=all",
+        "https://www.vlr.gg/event/matches/2282/valorant-masters-toronto-2025/?series_id=all"
+    ]
+}

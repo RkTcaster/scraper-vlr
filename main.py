@@ -28,7 +28,7 @@ def main():
             with open("config.json", "w") as outfile:
                 json.dump(config, outfile,indent=4)
 
-    print("Done")
+    print("Done processing")
 
-#main()
+main()
 
